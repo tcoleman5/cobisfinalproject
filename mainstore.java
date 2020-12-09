@@ -101,7 +101,7 @@ public class Main {
                    }
                    
                 } while (!answertwo.equals("2"));
-                } while (!answer.equals("c"));
+                } while (!answer.equals("b"));
               }
             }
         System.out.println("The store is now closing.");
